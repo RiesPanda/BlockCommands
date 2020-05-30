@@ -1,0 +1,20 @@
+# CommandBlockPlugin by RiesPanda#3952
+# Please make sure, that when switching lines, use the "," between blocks / commands / worlds!
+
+
+# This will change the blocks that'll be right-clicked in order to run the command
+right-clicked-blocks: [
+  "BEDROCK",
+  "OBSIDIAN",
+  "GRASS_BLOCK"
+]
+# This will change the command being run by the player when right-clicking a block
+command-ran-by-player: [
+  "gamemode creative",
+  "heal"
+]
+# This will change the worlds that this plugin is allowed in.
+worlds-allowed: [
+  "world",
+  "world2"
+]

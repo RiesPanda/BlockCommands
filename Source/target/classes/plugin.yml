@@ -1,0 +1,5 @@
+name: CommandBlockPlugin
+version: 1.0
+main: riespanda.twitch.tv.commandblockplugin.CommandBlockPlugin
+api-version: 1.13
+description: A Plugin that makes it so whenever you right click a configured block it will run a command
